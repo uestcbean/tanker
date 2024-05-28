@@ -54,4 +54,9 @@ public class StuffDO {
      * 物品状态
      */
     private Integer status;
+
+    /**
+     * 战场id
+     */
+    private Long battlefield_id;
 }

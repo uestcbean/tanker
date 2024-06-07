@@ -1,9 +1,7 @@
 package com.demo.tanker.world;
 
 import com.alibaba.fastjson2.JSON;
-import com.alibaba.fastjson2.JSONObject;
 import com.demo.tanker.constant.PanelSize;
-import com.demo.tanker.constant.Position;
 import com.demo.tanker.domain.BattlefieldDO;
 import com.demo.tanker.domain.StuffDO;
 import com.demo.tanker.manager.BattlefieldManager;
